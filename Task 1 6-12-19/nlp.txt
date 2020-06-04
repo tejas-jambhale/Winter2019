@@ -1,0 +1,4 @@
+#number of times mentioned and why. take any famous person freq and chart
+#represent a text and copy paste paragraph and represent in system
+
+#for DA use readable.com. Should be above a threshold(depending on parameters given on website). DA - NLP research group and challenges

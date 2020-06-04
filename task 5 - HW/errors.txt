@@ -1,0 +1,5 @@
+Some errors i faced -
+
+a. problem downloading corpus - used different link
+
+b. did not know how to use response library - had go to a short tutorial

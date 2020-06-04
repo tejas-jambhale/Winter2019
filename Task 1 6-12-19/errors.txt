@@ -1,0 +1,7 @@
+Some errors i faced -
+
+a. Installation of Libraries - nltk documentation helped me
+
+b. Unaware of the many index and metrics available in Readable.io - their documentation page helped learn the relevant ones
+
+c. Hindi text was not being displayed - download complete nltk and solved syntax errors

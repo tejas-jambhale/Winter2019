@@ -1,0 +1,5 @@
+Some errors i faced -
+
+a. problem importing brown corpus - syntax error and download nltk.corpus
+
+b. tried some other corpus present in nltk.corpus and managed to analyse many of them

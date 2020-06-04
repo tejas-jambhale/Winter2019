@@ -1,0 +1,10 @@
+Jieba
+“Jieba” (Chinese for “to stutter”) Chinese text segmentation: built to be the best Python Chinese word segmentation module.
+
+Features
+Supports three tokenization modes:
+Exact mode, which tries to cut the sentence most accurately, suitable for text analysis;
+Full mode, which scans all the words that can be formed into words in the sentence, it is very fast, but it cannot resolve the ambiguity;
+The search engine mode, based on the precise mode, cuts long words again and improves the recall rate.
+Support traditional word segmentation
+Support custom dictionary
