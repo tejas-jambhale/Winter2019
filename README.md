@@ -1,5 +1,4 @@
 # Winter2019
-NLP
 
 Tejas Jambhale 17BCE0861
 
